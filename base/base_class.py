@@ -1,7 +1,5 @@
 import datetime
 
-from selenium.webdriver import ActionChains
-
 
 class Base():
     def __init__(self, driver):
